@@ -5,27 +5,31 @@ body {
 hr {
   border-color: red;
 }
-h3
-{
-    color: white;
-}
-li{
+
+h3 {
   color: white;
 }
-a{
+
+li {
+  color: white;
+}
+
+a {
   color: red;
 }
-p
-{
-    color: white;
+
+p {
+  color: white;
 }
-h1{
-    color: white;
+
+h1 {
+  color: white;
 }
-td{
-    color: white;
+
+td {
+  color: white;
 }
-th
-{
-    color: white;
+
+th {
+  color: white;
 }
