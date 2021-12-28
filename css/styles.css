@@ -33,3 +33,65 @@ td {
 th {
   color: white;
 }
+
+.projects{
+  color: red;
+}
+
+.cs{
+  color: lime;
+}
+
+.math{
+  color: red;
+}
+
+.engrd{
+color:#5b9aec;
+}
+
+.engri{
+color: gold;
+}
+
+.chem{
+color: orange;
+}
+
+.econ{
+color: skyblue;
+}
+
+.fws{
+color: forestgreen;
+}
+
+.engrg{
+color: pink;
+}
+
+.phys{
+color: #ff730f;
+}
+
+.orie{
+color: #a27ec9;
+}
+
+.noncs
+{
+  color:white;
+}
+
+.tierone{
+  color: lime;
+}
+
+.tiertwo
+{
+   color: #7bec5f;
+}
+.tierthree
+{
+    color: #bbf5ad;
+}
